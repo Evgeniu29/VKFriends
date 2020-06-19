@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VKFriends</string>
+    <integer name="com_vk_sdk_AppId">7512268</integer>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="warning">No internet. Please check  internet connection.</string>
+</resources>
